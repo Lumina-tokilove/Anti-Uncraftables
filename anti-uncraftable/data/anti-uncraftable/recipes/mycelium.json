@@ -1,0 +1,16 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "   ",
+        "AB ",
+        "BA "
+    ],
+    "key":{
+        "A":{"item":"minecraft:moss_block"},
+        "B":{"item":"minecraft:dirt"}
+    },
+    "result":{
+        "item":"minecraft:mycelium",
+        "count":2
+    }
+}

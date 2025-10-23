@@ -1,0 +1,15 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "   ",
+        "AA ",
+        "AA "
+    ],
+    "key":{
+        "A":{"item":"minecraft:dead_bubble_coral"}
+    },
+    "result":{
+        "item":"minecraft:dead_bubble_coral_block",
+        "count":1
+    }
+}

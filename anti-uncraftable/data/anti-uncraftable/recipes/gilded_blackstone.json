@@ -1,0 +1,16 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        " A ",
+        "ABA",
+        " A "
+    ],
+    "key":{
+        "A":{"item":"minecraft:gold_nugget"},
+        "B":{"item":"minecraft:blackstone"}
+    },
+    "result":{
+        "item":"minecraft:gilded_blackstone",
+        "count":1
+    }
+}

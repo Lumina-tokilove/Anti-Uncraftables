@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:kelp"
+    },
+    "B": {
+      "tag": "anti-uncraftable:coral_blocks"
+    }
+  },
+  "result": {
+    "item": "minecraft:wet_sponge",
+    "count": 1
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:dried_kelp"
+    },
+    "B": {
+      "tag": "anti-uncraftable:dead_coral_blocks"
+    }
+  },
+  "result": {
+    "item": "minecraft:sponge",
+    "count": 1
+  }
+}
+

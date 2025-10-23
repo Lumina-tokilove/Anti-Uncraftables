@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EEE"
+  ],
+  "key": {
+    "A": { "item": "minecraft:prismarine_shard" },
+    "B": { "item": "minecraft:trident" },
+    "C": { "item": "minecraft:prismarine_crystals" },
+    "D": { "item": "minecraft:nether_star" },
+    "E": { "item": "minecraft:sea_lantern" }
+  },
+  "result": {
+     "item": "minecraft:heart_of_the_sea",
+     "count": 1
+    }
+}

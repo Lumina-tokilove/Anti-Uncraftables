@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:phantom_membrane" },
+    "B": { "item": "minecraft:shulker_shell" },
+    "C": { "item": "minecraft:nether_star" },
+    "D": { "item": "minecraft:feather" }
+  },
+  "result": {
+     "item": "minecraft:elytra",
+     "count": 1
+    }
+}

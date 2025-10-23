@@ -1,0 +1,17 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "ABA",
+        "BCB",
+        "ABA"
+    ],
+    "key":{
+        "A":{"item":"minecraft:dragon_breath"},
+        "B":{"item":"minecraft:ender_eye"},
+        "C":{"item":"minecraft:dragon_egg"}
+    },
+    "result":{
+        "item":"minecraft:dragon_head",
+        "count":1
+    }
+}

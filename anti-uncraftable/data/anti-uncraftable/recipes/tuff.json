@@ -1,0 +1,16 @@
+{
+    "type":"crafting_shaped",
+    "pattern":[
+        "   ",
+        "AB ",
+        "BA "
+    ],
+    "key":{
+        "A":{"item":"minecraft:clay"},
+        "B":{"item":"minecraft:gravel"}
+    },
+    "result":{
+        "item":"minecraft:tuff",
+        "count":2
+    }
+}
